@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"tetris.h": "c",
+			"time.h": "c",
+			"windows.h": "c",
+			"arrays.h": "c"
+		}
+	}
+}
